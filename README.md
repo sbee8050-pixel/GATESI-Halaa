@@ -1,2 +1,2 @@
 # GATESI-Halaa
-This repository ia practical assessment of version control being done
+This repository is a practical assessment of version control being done
